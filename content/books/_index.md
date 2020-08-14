@@ -1,5 +1,5 @@
 ---
-title: Book List
+title: Books Information
 ---
 
-This is the books section
+This section presents information about books.

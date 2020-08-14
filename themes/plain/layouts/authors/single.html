@@ -3,21 +3,21 @@
 
 <h6>Author's details</h6>
 <table>
-<tr><td><b>ID</b><td><td>{{ .Params.id}}</td></tr>
-<tr><td><b>Nationality</b><td><td>{{ .Params.copyright}}</td></tr>
-<tr><td><b>Birth</b><td><td>{{ .Params.edition}}</td></tr>
-<tr><td><b>Genere</b><td><td>{{ .Params.language}}</td></tr>
+<tr><td><b>ID</b><td><td>{{ .Params.authorId}}</td></tr>
+<tr><td><b>Nationality</b><td><td>{{ .Params.nationality}}</td></tr>
+<tr><td><b>Birth</b><td><td>{{ .Params.birth}}</td></tr>
+<tr><td><b>Fields</b><td><td>
+  {{ range .Params.fields }} {{ . }} | {{end}}
+</td></tr>
 </table>
 
 <h6>Books</H6>
-{{ with .Params.books }}
-    <ul id="tags">
-      {{ range . }}
+    <ul>
+      {{ range .Params.booksId }}
 	     {{ $t := $.Site.GetPage .}}
-        <li> <a href="{{ "books/" | absURL }}{{ . | urlize }}">{{ $t.Title }}</a> </li>
+		 <li><a href="/books/{{ .}}">{{ $t.Title }}</a></li>
       {{ end }}
     </ul>
-{{end}}
 	
 <h6>Biography</h6>
 

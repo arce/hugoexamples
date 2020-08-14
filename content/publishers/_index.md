@@ -1,5 +1,5 @@
 ---
-title: Publishers Section
+title: Publishers Information
 ---
 
-This is the publishers section
+This section presents information about publishers.

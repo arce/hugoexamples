@@ -1,13 +1,11 @@
 ---
-id: 1
+bookId: book_1
 title: Operating System Concepts
 edition: 9th
 copyright: 2012
 language: ENGLISH
 pages: 976
-author: Abraham Silberschatz
 authorId: author_1
-publisher: John Wiley & Sons
 publisherId: publisher_1
 ---
 

@@ -3,13 +3,19 @@
 
 <h6>Book's details</h6>
 <table>
-<tr><td><b>ID</b><td><td>{{ .Params.id}}</td></tr>
+<tr><td><b>ID</b><td><td>{{ .Params.bookId}}</td></tr>
 <tr><td><b>Copyright</b><td><td>{{ .Params.copyright}}</td></tr>
 <tr><td><b>Edition</b><td><td>{{ .Params.edition}}</td></tr>
 <tr><td><b>Language</b><td><td>{{ .Params.language}}</td></tr>
 <tr><td><b>Pages</b><td><td>{{ .Params.pages}}</td></tr>
-<tr><td><b>Author</b><td><td><a href="/authors/{{ .Params.authorId}}">{{ .Params.author}}</td></tr>
-<tr><td><b>Publisher</b><td><td><a href="/publishers/{{ .Params.publisherId}}">{{ .Params.publisher}}</td></tr>
+<tr><td><b>Author</b><td><td>
+  {{ $t := $.Site.GetPage .Params.authorId}}
+    <a href="/authors/{{ .Params.authorId}}">{{ $t.Title }}</a>
+</td></tr>
+<tr><td><b>Publisher</b><td><td>
+  {{ $t := $.Site.GetPage .Params.publisherId}}
+    <a href="/publishers/{{ .Params.publisherId}}">{{ $t.Title }}</a>
+</td></tr>
 </table>
 
 <h6>Description</h6>

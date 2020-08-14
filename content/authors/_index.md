@@ -1,5 +1,5 @@
 ---
-title: Authors Section
+title: Authors Information
 ---
 
-This is the Authors Section page
+This section presents information about the authors of the books.
