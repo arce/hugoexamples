@@ -1,4 +1,4 @@
-baseURL = "https://hugo-example1.netlify.app/"
+baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "slim" 
+title = "My Books Database"
+theme = "plain"
