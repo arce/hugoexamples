@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Books on Computer Science Books</title>
+    <link>http://localhost:8000/books/</link>
+    <description>Recent content in Books on Computer Science Books</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://localhost:8000/books/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Compilers: Principles, Techniques, and Tools</title>
+      <link>http://localhost:8000/books/book_5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8000/books/book_5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computer Networks</title>
+      <link>http://localhost:8000/books/book_3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8000/books/book_3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Structures and Algorithms</title>
+      <link>http://localhost:8000/books/book_6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8000/books/book_6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Database System Concepts</title>
+      <link>http://localhost:8000/books/book_2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8000/books/book_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modern Operating Systems</title>
+      <link>http://localhost:8000/books/book_4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8000/books/book_4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Operating System Concepts</title>
+      <link>http://localhost:8000/books/book_1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8000/books/book_1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://localhost:8000/authors/author_1/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8000/publishers/publisher_3/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8000/authors/author_3/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8000/authors/author_2/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8000/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8000/books/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8000/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8000/books/book_5/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8000/books/book_3/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8000/books/book_6/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8000/books/book_2/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8000/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8000/publishers/publisher_1/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8000/books/book_4/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8000/books/book_1/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8000/publishers/publisher_2/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8000/publishers/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8000/search/</loc>
+    <priority>0.1</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8000/tags/</loc>
+  </url>
+  
+</urlset>
