@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publishers on Computer Science Books</title>
-    <link>http://localhost:8000/publishers/</link>
+    <link>http://hugo-example4.netlify.app/publishers/</link>
     <description>Recent content in Publishers on Computer Science Books</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://localhost:8000/publishers/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://hugo-example4.netlify.app/publishers/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Adisson-Wesley</title>
-      <link>http://localhost:8000/publishers/publisher_3/</link>
+      <link>http://hugo-example4.netlify.app/publishers/publisher_3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8000/publishers/publisher_3/</guid>
+      <guid>http://hugo-example4.netlify.app/publishers/publisher_3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>John Wiley &amp; Sons</title>
-      <link>http://localhost:8000/publishers/publisher_1/</link>
+      <link>http://hugo-example4.netlify.app/publishers/publisher_1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8000/publishers/publisher_1/</guid>
+      <guid>http://hugo-example4.netlify.app/publishers/publisher_1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pearson Education</title>
-      <link>http://localhost:8000/publishers/publisher_2/</link>
+      <link>http://hugo-example4.netlify.app/publishers/publisher_2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8000/publishers/publisher_2/</guid>
+      <guid>http://hugo-example4.netlify.app/publishers/publisher_2/</guid>
       <description></description>
     </item>
     

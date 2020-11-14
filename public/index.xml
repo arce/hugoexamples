@@ -2,128 +2,128 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home Page on Computer Science Books</title>
-    <link>http://localhost:8000/</link>
+    <link>http://hugo-example4.netlify.app/</link>
     <description>Recent content in Home Page on Computer Science Books</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://localhost:8000/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://hugo-example4.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Abraham Silberschatz</title>
-      <link>http://localhost:8000/authors/author_1/</link>
+      <link>http://hugo-example4.netlify.app/authors/author_1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8000/authors/author_1/</guid>
+      <guid>http://hugo-example4.netlify.app/authors/author_1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adisson-Wesley</title>
-      <link>http://localhost:8000/publishers/publisher_3/</link>
+      <link>http://hugo-example4.netlify.app/publishers/publisher_3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8000/publishers/publisher_3/</guid>
+      <guid>http://hugo-example4.netlify.app/publishers/publisher_3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Alfred V. Aho</title>
-      <link>http://localhost:8000/authors/author_3/</link>
+      <link>http://hugo-example4.netlify.app/authors/author_3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8000/authors/author_3/</guid>
+      <guid>http://hugo-example4.netlify.app/authors/author_3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Andrew S. Tanenbaum</title>
-      <link>http://localhost:8000/authors/author_2/</link>
+      <link>http://hugo-example4.netlify.app/authors/author_2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8000/authors/author_2/</guid>
+      <guid>http://hugo-example4.netlify.app/authors/author_2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Compilers: Principles, Techniques, and Tools</title>
-      <link>http://localhost:8000/books/book_5/</link>
+      <link>http://hugo-example4.netlify.app/books/book_5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8000/books/book_5/</guid>
+      <guid>http://hugo-example4.netlify.app/books/book_5/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Computer Networks</title>
-      <link>http://localhost:8000/books/book_3/</link>
+      <link>http://hugo-example4.netlify.app/books/book_3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8000/books/book_3/</guid>
+      <guid>http://hugo-example4.netlify.app/books/book_3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data Structures and Algorithms</title>
-      <link>http://localhost:8000/books/book_6/</link>
+      <link>http://hugo-example4.netlify.app/books/book_6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8000/books/book_6/</guid>
+      <guid>http://hugo-example4.netlify.app/books/book_6/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Database System Concepts</title>
-      <link>http://localhost:8000/books/book_2/</link>
+      <link>http://hugo-example4.netlify.app/books/book_2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8000/books/book_2/</guid>
+      <guid>http://hugo-example4.netlify.app/books/book_2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>John Wiley &amp; Sons</title>
-      <link>http://localhost:8000/publishers/publisher_1/</link>
+      <link>http://hugo-example4.netlify.app/publishers/publisher_1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8000/publishers/publisher_1/</guid>
+      <guid>http://hugo-example4.netlify.app/publishers/publisher_1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modern Operating Systems</title>
-      <link>http://localhost:8000/books/book_4/</link>
+      <link>http://hugo-example4.netlify.app/books/book_4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8000/books/book_4/</guid>
+      <guid>http://hugo-example4.netlify.app/books/book_4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Operating System Concepts</title>
-      <link>http://localhost:8000/books/book_1/</link>
+      <link>http://hugo-example4.netlify.app/books/book_1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8000/books/book_1/</guid>
+      <guid>http://hugo-example4.netlify.app/books/book_1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pearson Education</title>
-      <link>http://localhost:8000/publishers/publisher_2/</link>
+      <link>http://hugo-example4.netlify.app/publishers/publisher_2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8000/publishers/publisher_2/</guid>
+      <guid>http://hugo-example4.netlify.app/publishers/publisher_2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Search Results</title>
-      <link>http://localhost:8000/search/</link>
+      <link>http://hugo-example4.netlify.app/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8000/search/</guid>
+      <guid>http://hugo-example4.netlify.app/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.

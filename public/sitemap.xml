@@ -3,80 +3,80 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost:8000/authors/author_1/</loc>
+    <loc>http://hugo-example4.netlify.app/authors/author_1/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:8000/publishers/publisher_3/</loc>
+    <loc>http://hugo-example4.netlify.app/publishers/publisher_3/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:8000/authors/author_3/</loc>
+    <loc>http://hugo-example4.netlify.app/authors/author_3/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:8000/authors/author_2/</loc>
+    <loc>http://hugo-example4.netlify.app/authors/author_2/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:8000/authors/</loc>
+    <loc>http://hugo-example4.netlify.app/authors/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:8000/books/</loc>
+    <loc>http://hugo-example4.netlify.app/books/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:8000/categories/</loc>
+    <loc>http://hugo-example4.netlify.app/categories/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:8000/books/book_5/</loc>
+    <loc>http://hugo-example4.netlify.app/books/book_5/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:8000/books/book_3/</loc>
+    <loc>http://hugo-example4.netlify.app/books/book_3/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:8000/books/book_6/</loc>
+    <loc>http://hugo-example4.netlify.app/books/book_6/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:8000/books/book_2/</loc>
+    <loc>http://hugo-example4.netlify.app/books/book_2/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:8000/</loc>
+    <loc>http://hugo-example4.netlify.app/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:8000/publishers/publisher_1/</loc>
+    <loc>http://hugo-example4.netlify.app/publishers/publisher_1/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:8000/books/book_4/</loc>
+    <loc>http://hugo-example4.netlify.app/books/book_4/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:8000/books/book_1/</loc>
+    <loc>http://hugo-example4.netlify.app/books/book_1/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:8000/publishers/publisher_2/</loc>
+    <loc>http://hugo-example4.netlify.app/publishers/publisher_2/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:8000/publishers/</loc>
+    <loc>http://hugo-example4.netlify.app/publishers/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:8000/search/</loc>
+    <loc>http://hugo-example4.netlify.app/search/</loc>
     <priority>0.1</priority>
   </url>
   
   <url>
-    <loc>http://localhost:8000/tags/</loc>
+    <loc>http://hugo-example4.netlify.app/tags/</loc>
   </url>
   
 </urlset>
